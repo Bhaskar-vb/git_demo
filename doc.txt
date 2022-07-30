@@ -1,4 +1,8 @@
 doc sfkgmlsome change
 
+<<<<<<< HEAD
 
 added by me
+=======
+add by other user
+>>>>>>> ee6991bf37ea7346659658090244e5938d692084
